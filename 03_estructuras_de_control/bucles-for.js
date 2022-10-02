@@ -36,6 +36,8 @@ console.log(persona.nombre)
 let prop = "edad";
 console.log(persona[prop])
 
+
+//propiedad permite obtener los datos dentro del objeto
 for (let propiedad in persona) {
     console.log(propiedad);
     console.log(persona[propiedad])

@@ -18,6 +18,6 @@ for (let i = 0; i < lista.length; i++) {
 
 
 // Cuál es el ámbito de un bucle
-console.log(k);
+//console.log(k);
 console.log(i);
 console.log(j);
